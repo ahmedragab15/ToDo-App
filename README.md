@@ -1,4 +1,4 @@
-# ✅ Advanced To-Do App  
+# ✅To-Do App  
 
 A feature-rich **To-Do App** built with **HTML, CSS, and JavaScript**. This app allows users to manage their tasks efficiently with advanced features like task categorization, due dates, local storage support, and more.  
 
@@ -19,7 +19,7 @@ A feature-rich **To-Do App** built with **HTML, CSS, and JavaScript**. This app 
 
 ## 🚀 Live Demo  
 
-[Live Demo Here](https://ahmedragab15.github.io/Advanced-ToDo-App)  
+[Live Demo Here](https://ahmedragab15.github.io/ToDo-App)  
 
 ## 📸 Preview  
 
